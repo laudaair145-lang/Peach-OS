@@ -1,1 +1,2 @@
 QEMU is required
+And also create in the directory EFI/BOOT and put the bootx64.efi into the boot folder
